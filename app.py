@@ -4,7 +4,7 @@ import pandas as pd
 import joblib
 
 # Load trained Logistic Regression model
-model = joblib.load("logistic_regression_model.pkl")
+model = joblib.load("logistic_regression_model (1).pkl")
 
 # Title
 st.title("Diabetes Prediction App")
